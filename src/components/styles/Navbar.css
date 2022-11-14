@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F55A5A;
+    width: 100%;
+    box-shadow: -6px 34px 25px -20px rgba(79,74,74,1);
+    -webkit-box-shadow: -6px 34px 25px -20px rgba(79,74,74,1);
+    -moz-box-shadow: -6px 34px 25px -20px rgba(79,74,74,1);
+
+}
+
+.navbar > img {
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+    
+    
+}
+
+.navbar > h1 {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+}
